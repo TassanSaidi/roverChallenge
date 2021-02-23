@@ -5,4 +5,7 @@ The Rovers.java file will first ask for the amount of rovers then start cycling 
 
 In The same package, there exists a RoversTest file with 4 test cases
 
+ASSUMPTIONS
+-Rover remains in place if M command is given and there no more space on the grid
+
  
