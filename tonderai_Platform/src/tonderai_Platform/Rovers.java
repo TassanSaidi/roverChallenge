@@ -47,7 +47,7 @@ public class Rovers {
 			}
 			String results[] = move(instructions,coordinates,currDirection,maxCoordinate);
 			
-			System.out.println("Destination for Rover:"+j+" is:");
+			System.out.println("Destination for Rover:"+(j+1)+" is:");
 			System.out.println(results[0]+" "+results[1]+" "+ results[2]+"\n");
 			
 	}
